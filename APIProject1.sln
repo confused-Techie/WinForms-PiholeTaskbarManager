@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiholeTaskbarManager", "APIProject1\PiholeTaskbarManager.csproj", "{654B3ACB-9B3F-44B4-87D0-0B5B0890B524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{654B3ACB-9B3F-44B4-87D0-0B5B0890B524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654B3ACB-9B3F-44B4-87D0-0B5B0890B524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654B3ACB-9B3F-44B4-87D0-0B5B0890B524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654B3ACB-9B3F-44B4-87D0-0B5B0890B524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD2318F1-4CC9-46FA-858D-2EE1A75978A7}
+	EndGlobalSection
+EndGlobal
